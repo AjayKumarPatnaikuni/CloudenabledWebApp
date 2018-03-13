@@ -3,7 +3,7 @@
   <groupId>com.javatpoint</groupId>
   <artifactId>CloudenabledWebApp</artifactId>
   <packaging>war</packaging>
-  <version>4.0</version>
+  <version>4.1-SNAPSHOT</version>
   <name>CloudenabledWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -30,7 +30,7 @@
   
   <scm>
     <connection>scm:git:git@github.com:GitKoti235/CloudenabledWebApp.git</connection>
-    <tag>CloudenabledWebApp-4.0</tag>
+    <tag>CloudenabledWebApp-3.0</tag>
   </scm>
   
   <distributionManagement>
