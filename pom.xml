@@ -31,7 +31,6 @@
   
   <scm>
     <connection>scm:git:git@github.com:GitKoti235/CloudenabledWebApp.git</connection>
-    <tag>HEAD</tag>
   </scm>
   
   <distributionManagement>
